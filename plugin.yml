@@ -1,0 +1,10 @@
+name: GameNPC
+main: nissining.gamenpc.GameNPC
+version: "1"
+author: Nissining
+api: ["1.0.0"]
+commands:
+  gnpc:
+    description: GameNPC by Nissining
+  play:
+    description: Fast Play MiniGames
